@@ -1,0 +1,7 @@
+CDK2*=not CDKN1A and  MYC
+MYC*=not CDKN1A
+CDK4*=not CDKN2A
+CDKN1A*=not HDAC1 and not MYC and not MYC
+PPP1CA*= MAPK3
+EZH2*= MYC
+MAP2K3*= TAOK2
